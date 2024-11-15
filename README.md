@@ -1,1 +1,1 @@
-# PRODIGY_CS_03
+As part of my internship at Prodigy_InfoTech, I independently completed a cybersecurity project, leveraging various references and self-study. I developed a Password Complexity Checker tool using Python, designed to analyze the strength of user-entered passwords based on several criteria including the presence of uppercase and lowercase letters, digits, length, and special characters. This project was instrumental in enhancing my understanding of cybersecurity and Python programming.
